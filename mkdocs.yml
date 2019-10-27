@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: 南昌起义
+docs_dir: docs
+
+nav:
+    - 南昌起义: 'index.md'
+    - 内容:
+        - 背景介绍: 'contents/background.md'
+        - 周逸群: 'contents/zhou-yi-qun-.md'
+        - 叶挺: 'contents/ye-ting.md'
+        - 刘伯承: 'contents/liu-bo-cheng.md'
+        - 陈恭: 'contents/chen-gong.md'
+        - 赵輖: 'contents/zhao-zhou.md'
+        - 焦其恺: 'contents/jiao-qi-kai.md'
