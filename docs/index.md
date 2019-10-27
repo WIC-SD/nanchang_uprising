@@ -1,6 +1,7 @@
 # 南昌起义
 ## 目录
 - [南昌起义背景介绍](contents/background.md) (1927年8月1日)
+- [张太雷谈南昌起义](contents/zhang-tai-lei.md) (1927年10月15日)
 - [周逸群报告——关于南昌起义问题](contents/zhou-yi-qun.md) (1927年10月30日)
 - [叶挺: 南昌暴动至潮汕的失败](contents/ye-ting.md) (1927年)
 - [刘伯承: 南昌暴动始末记](contents/liu-bo-cheng.md) (1927年)
