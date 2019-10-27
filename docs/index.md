@@ -7,6 +7,7 @@
 - [陈恭: 关于随军作战情况的报告](contents/chen-gong.md) (1927年10月18日)
 - [赵輖: 关于南昌暴动中二十军的斗争情况报告](contents/zhao-zhou.md) (1927年10月22日)
 - [焦其恺: 从广东回来的报告——“八一”南昌起义后行广东的经过](contents/jiao-qi-kai.md) (1927年10月25日)
+- [南昌起义失败原因总结](contents/conclusion.md)
 
 
 ## 参考资料
