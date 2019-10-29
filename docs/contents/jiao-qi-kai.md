@@ -11,6 +11,8 @@
 
 ![焦其恺](../static/jiao-qi-kai-1.jpg)
 
+![焦其恺](../static/jiao-qi-kai-2.jpg)
+
 
 ## 总结
 &emsp;&emsp;从他的报告中我们可以总结出：
